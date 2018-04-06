@@ -1,0 +1,8 @@
+C:\Users\vasudev.ganesan\Documents\Projects\DWP\Fitnote\Visual_.Net_Projects\ReadDMCode_Nice\bin\Debug\DataMatrix.net.dll
+C:\Users\vasudev.ganesan\Documents\Projects\DWP\Fitnote\Visual_.Net_Projects\ReadDMCode_Nice\bin\Debug\Direct.Shared.dll
+C:\Users\vasudev.ganesan\Documents\Projects\DWP\Fitnote\Visual_.Net_Projects\ReadDMCode_Nice\bin\Debug\Direct.Shared.Library.dll
+C:\Users\vasudev.ganesan\Documents\Projects\DWP\Fitnote\Visual_.Net_Projects\ReadDMCode_Nice\obj\Debug\ReadDMCode.csprojResolveAssemblyReference.cache
+C:\Users\vasudev.ganesan\Documents\Projects\DWP\Fitnote\Visual_.Net_Projects\ReadDMCode_Nice\bin\Debug\Direct.DMReaderUtility.Library.dll
+C:\Users\vasudev.ganesan\Documents\Projects\DWP\Fitnote\Visual_.Net_Projects\ReadDMCode_Nice\bin\Debug\Direct.DMReaderUtility.Library.pdb
+C:\Users\vasudev.ganesan\Documents\Projects\DWP\Fitnote\Visual_.Net_Projects\ReadDMCode_Nice\obj\Debug\Direct.DMReaderUtility.Library.dll
+C:\Users\vasudev.ganesan\Documents\Projects\DWP\Fitnote\Visual_.Net_Projects\ReadDMCode_Nice\obj\Debug\Direct.DMReaderUtility.Library.pdb
